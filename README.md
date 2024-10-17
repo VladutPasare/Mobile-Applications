@@ -11,3 +11,4 @@ This is a mobile application where people can post ads to sell various items, li
 - Price - The selling price of the item
 - Category - The type of item being sold
 - Contanct - The seller's contact details
+- Location - The seller's location
