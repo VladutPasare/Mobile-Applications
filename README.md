@@ -27,4 +27,8 @@ All the available operations will be persisted on the local db and on the server
 - Update - The device is offline, so the operation cannot be performed at the moment
 - Delete - The device is offline, so the operation cannot be performed at the moment
 
-- ## App mockup
+## App mockup
+<p align="center">
+<img src="https://github.com/VladutPasare/Mobile-Applications/blob/main/screenshots/list.png" height="500">
+<img src="https://github.com/VladutPasare/Mobile-Applications/blob/main/screenshots/add.png" height="500">
+</p>
